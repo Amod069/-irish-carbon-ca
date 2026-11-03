@@ -1,0 +1,3 @@
+source,variables,resolution,period (UTC),rows,features,CO₂ intensity missing %,CO₂ intensity filled (emissions/demand)
+EirGrid Smart Grid Dashboard (ROI),"CO₂ intensity, CO₂ emissions, wind, demand, solar",15-min → hourly mean,2024-06-01 → 2026-11-02,21240,21,3.34,2409
+Open-Meteo Previous Model Runs,"100 m wind speed, 24 h-ahead forecast + near-actual, 4 sites",hourly,2024-06-01 → 2026-11-02,21240,21,3.34,2409
