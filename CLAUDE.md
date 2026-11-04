@@ -79,4 +79,4 @@ cleanliness. We forecast clean hours and simulate shifting jobs into them.
 - [x] Phase 2 – EDA (done 3 Nov 2026: 4 figures + dataset_description.csv, summary_stats.csv; r(wind share, CO2) = -0.75)
 - [x] Phase 3 – models A vs B + CodeCarbon + SHAP (done 4 Nov 2026: best = Linear Regression set B, test MAE 23.2 vs naive 32.3; B beats A for all 4 models; top SHAP feature = wind100_fc_mean)
 - [x] Phase 4 – scheduler simulation (done 4 Nov 2026: 24 h deadline saves 9.9% CO2 vs run-now = 65% of oracle; naive forecast 6.9%; training CO2 ~0.04 g vs ~107 t saved)
-- [ ] Phase 5 – results summary for report
+- [x] Phase 5 – results summary for report (done 4 Nov 2026: results/summary.md)
