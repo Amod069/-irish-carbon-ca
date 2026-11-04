@@ -76,6 +76,6 @@ cleanliness. We forecast clean hours and simulate shifting jobs into them.
 ## Status
 - [x] Phase 1 – download + build dataset (done 3 Nov 2026: 21,241 hourly rows; CO2 intensity 3.3% missing, 2,409 filled; solar only from May 2025; 16 CO2 + 19 demand days unrecoverable)
 - [x] Phase 2 – EDA (done 3 Nov 2026: 4 figures + dataset_description.csv, summary_stats.csv; r(wind share, CO2) = -0.75)
-- [ ] Phase 3 – models A vs B + CodeCarbon + SHAP
+- [x] Phase 3 – models A vs B + CodeCarbon + SHAP (done 4 Nov 2026: best = Linear Regression set B, test MAE 23.2 vs naive 32.3; B beats A for all 4 models; top SHAP feature = wind100_fc_mean)
 - [ ] Phase 4 – scheduler simulation
 - [ ] Phase 5 – results summary for report
