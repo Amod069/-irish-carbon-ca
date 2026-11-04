@@ -1,0 +1,13 @@
+deadline_h,policy,total_tCO2,saved_tCO2,pct_saved_vs_run_now,pct_of_oracle_savings
+12,Run now,1081.11,0.0,0.0,0.0
+12,Shift (model forecast),1031.87,49.24,4.55,64.1
+12,Shift (naive forecast),1043.7,37.42,3.46,48.7
+12,Oracle (perfect knowledge),1004.25,76.86,7.11,100.0
+24,Run now,1081.11,0.0,0.0,0.0
+24,Shift (model forecast),974.44,106.67,9.87,65.0
+24,Shift (naive forecast),1006.68,74.44,6.89,45.4
+24,Oracle (perfect knowledge),916.99,164.12,15.18,100.0
+48,Run now,1081.11,0.0,0.0,0.0
+48,Shift (model forecast),925.99,155.13,14.35,66.1
+48,Shift (naive forecast),1009.67,71.44,6.61,30.5
+48,Oracle (perfect knowledge),846.54,234.57,21.7,100.0
